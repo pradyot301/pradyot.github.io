@@ -1,6 +1,4 @@
-layout: default
-title: "Pradyot Sharma"
----
+
 ![My Photo](files/headshot.jpeg)
 # Welcome!
 
