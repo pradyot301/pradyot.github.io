@@ -1,6 +1,6 @@
 title: ""
 description: ""
-theme: jekyll-theme-cayman
+theme: jekyll-theme-basic
 
 header_pages:
   - index.md
