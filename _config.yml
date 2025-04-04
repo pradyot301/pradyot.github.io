@@ -1,11 +1,7 @@
-
-
 title: ""
 description: ""
 theme: jekyll-theme-cayman
 
-# Optional: configure your site's navigation
-# Some themes support a "navbar" or "header_pages" setting
 header_pages:
   - index.md
   - CV.md
