@@ -7,9 +7,11 @@ title: "Prad Sharma"
 
 I am a PhD Candidate at George Mason University and a PhD Fellow at the Mercatus Center. My research interests include topics in Regulation, Political Economy, Income Mobility, and Development. 
 
+Email: psharm6@gmu.edu
+
 
 - Location: Fairfax, VA
-- [CV](CV)  <!-- links to the cv.md page -->
+- [CV](CV)
 - [Research](Research)
 - [Teaching](Teaching)
 
