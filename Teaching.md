@@ -3,7 +3,7 @@ layout: default
 title: "Teaching Experience"
 ---
 
-# Teaching Experience
+
 
 **George Mason University, Department of Economics**
 
