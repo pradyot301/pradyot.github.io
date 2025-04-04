@@ -1,4 +1,7 @@
-
+---
+layout: default
+title: ""
+---
 ![My Photo](files/headshot.jpeg)
 # Welcome!
 
