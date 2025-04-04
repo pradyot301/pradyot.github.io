@@ -1,3 +1,14 @@
-theme: jekyll-theme-cayman  # or one of the other official themes
+
+
 title: "My Academic Website"
 description: "A simple academic website on GitHub Pages"
+theme: jekyll-theme-cayman
+
+# Optional: configure your site's navigation
+# Some themes support a "navbar" or "header_pages" setting
+header_pages:
+  - index.md
+  - cv.md
+  - research.md
+  - teaching.md
+  - links.md
