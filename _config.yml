@@ -7,8 +7,7 @@ theme: jekyll-theme-cayman
 # Optional: configure your site's navigation
 # Some themes support a "navbar" or "header_pages" setting
 header_pages:
-  - index.md
-  - cv.md
-  - research.md
-  - teaching.md
-  - links.md
+  - about.md
+  - CV.md
+  - Research.md
+  - Teaching.md
