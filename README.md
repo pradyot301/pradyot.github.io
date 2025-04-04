@@ -1,1 +1,1 @@
-# pradyot.github.io
+# pradyots.github.io
