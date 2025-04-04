@@ -1,4 +1,3 @@
-title: Pradyot Sharma
-#Logo: 
-
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman  # or one of the other official themes
+title: "My Academic Website"
+description: "A simple academic website on GitHub Pages"
