@@ -9,5 +9,5 @@ I am a PhD Candidate at George Mason University and a PhD Fellow at the Mercatus
 - [CV](cv)  <!-- links to the cv.md page -->
 - [Research](research)
 - [Teaching](teaching)
-- [Links](links)
+
 
