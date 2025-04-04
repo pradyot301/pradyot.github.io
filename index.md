@@ -6,8 +6,8 @@ I am a PhD Candidate at George Mason University and a PhD Fellow at the Mercatus
 
 
 - Location: Fairfax, VA
-- [CV](cv)  <!-- links to the cv.md page -->
-- [Research](research)
-- [Teaching](teaching)
+- [CV](CV)  <!-- links to the cv.md page -->
+- [Research](Research)
+- [Teaching](Teaching)
 
 
