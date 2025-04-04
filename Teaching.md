@@ -10,7 +10,7 @@ title: "Teaching Experience"
 - **Econ 311: Intermediate Macroeconomics**  
   - Summer 2023  
   - Spring 2024 (With Timothy Groseclose)  
-  - Summer 2024  
+  - Summer 2024 ([syllabus](files/summer2024.pdf))   
   - Summer 2025
 
 ## Teaching Assistant
