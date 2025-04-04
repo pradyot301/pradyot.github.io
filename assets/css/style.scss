@@ -1,0 +1,11 @@
+---
+# This front matter is required for Jekyll to process this file
+---
+
+@import "jekyll-theme-cayman";
+
+/* Hide the site title and description in the header */
+.site-title,
+.site-description {
+  display: none;
+}
