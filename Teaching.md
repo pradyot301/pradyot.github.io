@@ -1,6 +1,4 @@
-layout:""
-title: ""
----
+
 
 # Teaching Experience
 
