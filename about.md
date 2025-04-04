@@ -1,5 +1,5 @@
 layout: default
-title: "Pradyot (Prad) Sharma"
+title: "Pradyot Sharma"
 ---
 ![My Photo](files/headshot.jpeg)
 # Welcome!
