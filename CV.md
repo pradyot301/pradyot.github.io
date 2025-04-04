@@ -3,4 +3,6 @@ layout: default
 title: "CV"
 ---
 
-Find my current [CV here](files/Pradyot_Sharma_CV.pdf)
+# CV
+
+Find my current CV here [CV(PDF)](files/Pradyot_Sharma_CV.pdf)
