@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ""
+title: "Prad Sharma"
 ---
 ![My Photo](files/headshot.jpeg)
 # Welcome!
