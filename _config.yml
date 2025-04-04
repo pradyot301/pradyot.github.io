@@ -3,7 +3,6 @@ description: ""
 theme: jekyll-theme-cayman
 
 header_pages:
-  - index.md
   - CV.md
   - Research.md
   - Teaching.md
