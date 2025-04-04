@@ -1,5 +1,5 @@
-layout: default
-title: "Teaching Experience"
+layout:""
+title: ""
 ---
 
 # Teaching Experience
