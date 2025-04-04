@@ -3,7 +3,7 @@ layout: default
 title: "Research"
 ---
 
-# Research
+
 
 ## Published Work
 - **Regulation and Income Mobility** (With Vincent Geloso).  
