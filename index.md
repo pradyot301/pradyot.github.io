@@ -10,9 +10,6 @@ I am a PhD Candidate at George Mason University and a PhD Fellow at the Mercatus
 Email: psharm6@gmu.edu
 
 
-- Location: Fairfax, VA
-- [CV](CV)
-- [Research](Research)
-- [Teaching](Teaching)
+
 
 
